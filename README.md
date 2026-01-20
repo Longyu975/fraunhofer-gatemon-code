@@ -1,5 +1,3 @@
-# fraunhofer-gatemon-code
-
 # Data Availability for Anharmonicity and Charge sensitivity of Fraunhofer Gatemon
 
 This repository contains the source code and data supporting the results presented in the paper.
