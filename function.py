@@ -1,6 +1,6 @@
 """
 Copyright (c) 2018 and later, Muhammad Irfan and Anton Akhmerov.
-Copyright (c) 2024 Longyu Ma.
+Copyright (c) 2026 Longyu Ma.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -243,5 +243,6 @@ def calculate_V_phi(smatrix, phi_value, Delta):
 
     # Calculate V(phi)
     V_phi = np.sum(energy_neg)
+
 
     return V_phi
