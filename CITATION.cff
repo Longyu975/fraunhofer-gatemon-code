@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for Anharmonicity and charge-noise sensitivity of Fraunhofer qubit"
+type: software
+version: 1.0.0
+authors:
+  - family-names: Ma
+    given-names: Longyu
+repository-code: "https://github.com/Longyu975/fraunhofer-gatemon-code"
